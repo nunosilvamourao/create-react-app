@@ -1,8 +1,8 @@
 ## Zuellig Pharma Frontend Assignment
 
-Thanks for taking the time to do our front-end / full-stack coding test. The challenge has two parts:
+Thanks for taking the time to do our frontend coding test. The challenge has two parts:
 
-- a task to create a basic front-end screen querying one of our internal APIs
+- a task to create a basic frontend screen querying data from one of our internal APIs
 
 - some follow-up questions
 
