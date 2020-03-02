@@ -1,5 +1,5 @@
 ## Quick Overview
--
+
 ```sh
 npx create-react-app my-app
 cd my-app
@@ -98,13 +98,6 @@ You will see the build errors and lint warnings in the console.
 <img src='https://cdn.jsdelivr.net/gh/marionebl/create-react-app@9f6282671c54f0874afd37a72f6689727b562498/screencast-error.svg' width='600' alt='Build errors'>
 </p>
 
-### `npm test` or `yarn test`
-
-Runs the test watcher in an interactive mode.<br>
-By default, runs tests related to files changed since the last commit.
-
-[Read more about testing.](https://facebook.github.io/create-react-app/docs/running-tests)
-
 ### `npm run build` or `yarn build`
 
 Builds the app for production to the `build` folder.<br>
@@ -117,3 +110,15 @@ Your app is ready to be deployed.
 ## License
 
 Create React App is open source software [licensed as MIT](https://github.com/facebook/create-react-app/blob/master/LICENSE).
+
+
+
+## Exercise
+
+## Submission Guidelines
+- The zip file should be named {yourname}.zip, and should itself contain the full-stack-recruitment-test project folder with your submission.
+
+- The zip file should contain the FOLLOW-UP.md file with answers to the follow-up questions.
+
+- The zip file should not include the node_modules folder.
+
